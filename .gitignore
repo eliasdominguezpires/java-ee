@@ -1,0 +1,12 @@
+.idea/
+scp-transport.iml
+/target/
+target/*
+.project
+.classpath
+.settings
+.externalToolBuilders
+.java-version
+.idea
+*.sublime-workspace
+remotoToLocal.txt
